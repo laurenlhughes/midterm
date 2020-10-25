@@ -1,0 +1,47 @@
+h2{
+	color: darkslategray;
+	font-size: 25px;
+}
+
+blockquote{
+	background-color: lightgray;
+	color: blue;
+	
+}
+
+#main-nav {
+	border-bottom: 1px solid papayawhip;
+
+}
+
+#main-nav a:link,
+#main-nav a:visited {
+	text-decoration: dotted;
+	color: darkcyan;
+}
+#main-nav a:hover,
+#main-nav a:focus,
+#main-nav a:active {
+	color: coral;
+	text-decoration: underline
+}
+
+main{
+	width: 60%;
+	float: center;
+	padding-left: 25px;
+	padding-right: 25px;
+	margin-bottom: 30px;
+}
+#content-left {
+	padding: 0px 25px;
+	width:60%;
+	float: left;
+	margin-bottom: 30px;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+  }
